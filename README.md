@@ -61,8 +61,8 @@
 
   - Clone this repo:
   ```
-  git clone -b main https://github.com/reaitten/tgtlg tgtlg
-  cd tgtlg
+  git clone -b main https://github.com/ilumc/TtoG TtoG
+  cd TtoGg
   ```
 
   - Install requirements
